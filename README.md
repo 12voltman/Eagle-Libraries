@@ -14,4 +14,4 @@ The goal here is to eventually split the library up into different categories fo
 * HLK-PM01 - Awesome cheap power supplies for line voltage, only about $3
 * NRF24L01 - Super common and cheap RF modules, but now there's a way to add wireless to your board with no RF designing necessary
 * PCIe-x1 - Matching set of connectors, one female socket, and one male card edge connector, I find these great for programming, as no parts are needed on the target board
-* PIC16F145X - One of the very few USB-native microcontrollers that is available in a through-hole package
+* PIC16F145X - One of the cheapest USB-native microcontrollers, and one of the very few that is available in a through-hole package
