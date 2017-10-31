@@ -5,7 +5,7 @@ The goal here is to eventually split the library up into different categories fo
 
 
 #### Brief rundown of my favorite parts:
-* SAMD21J - I haven't found a good part for this anywhere, and its a great piece, its the larger version of the SAMD21G (commonly found in the Arduino Zero and similar) and I really want to see Cortex based Arduino Mega eventually
+* SAMD21J - I haven't found a good part for this anywhere, and its a great piece, its the larger version of the SAMD21G (commonly found in the Arduino Zero and similar) and I really want to see some sort of Cortex based Arduino Mega eventually
 * SAMD11 - The cheapest USB-native microcontrollers I've found that natively work with the Arduino IDE
 * ACS711 & ACS712 - Highly integrated current sesnsors that allow super easy current monitoring from a microcontroller
 * ATSHA204A - Great little part for crypto authentication thats great for secure IoT, but I haven't found any good parts for it online, especially for the I2C version
